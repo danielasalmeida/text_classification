@@ -1,0 +1,11 @@
+Objetivo
+A prevalência de doença hepática gordurosa não alcoólica em crianças aumentou significativamente devido à epidemia de obesidade infantil em todo o mundo nas últimas duas décadas. A doença hepática gordurosa não alcoólica está intimamente ligada ao estilo de vida sedentário, ao aumento do índice de massa corporal e à adiposidade visceral. Além disso, variações genéticas individuais também têm um papel no desenvolvimento e na progressão da doença hepática gordurosa não alcoólica. O objetivo deste estudo foi investigar os polimorfismos genéticos MCP‐1 (‐2518 A/G) (rs1024611), CCR‐2 (190 G/A) (rs1799864), ABCA1 (883 G/A) (rs4149313) e IL‐17A (‐197 G/A) (rs2275913) em crianças turcas obesas com doença hepática gordurosa não alcoólica.
+
+Métodos
+O estudo recrutou 186 crianças obesas entre 10 e 17 anos, inclusive 101 crianças com doença hepática gordurosa não alcoólica e 85 crianças sem doença hepática gordurosa não alcoólica. Medidas antropométricas, resistência à insulina, painel hepático, perfil lipídico, exame ultrassonográfico do fígado e genotipagem de quatro variantes foram feitos.
+
+Resultados
+Nenhuma diferença foi encontrada entre os grupos em relação à idade e sexo, índice de massa corporal, relação cintura/quadril ou proporção de gordura corporal. Além dos níveis elevados de ALT, os níveis de AST e GGT foram significativamente maiores no grupo doença hepática gordurosa não alcoólica em comparação com o grupo não doença hepática gordurosa não alcoólica (p < 0,05). O alelo A de IL‐17A (‐197 G/A) (rs2275913) foi associado à doença hepática gordurosa não alcoólica (odds ratio [OR] 2,05, intervalo de confiança de 95%: 1,12‐3,77, p=0,02).
+
+Conclusões
+Os achados deste estudo sugerem que pode haver uma associação entre o polimorfismo IL‐17A (‐197 G/A) (rs2275913) e o desenvolvimento da doença hepática gordurosa não alcoólica em crianças turcas obesas.

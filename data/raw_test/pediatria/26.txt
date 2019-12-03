@@ -1,0 +1,11 @@
+Objetivo
+Avaliar a associação entre processo inflamatório, adiposidade e as vitaminas A, D e E em adolescentes, segundo o sexo.
+
+Métodos
+Estudo transversal com adolescentes de 12 a 19 anos de ambos os sexos de escolas públicas de Recife. Foi utilizado um questionário para coleta de dados socioeconômicos, de estilo de vida e de consumo alimentar dos adolescentes. Em seguida, realizou-se a avalição antropométrica e coleta de sangue para análise das concentrações séricas de α‐1‐glicoproteína ácida, retinol, β‐caroteno, α‐tocoferol e 25‐hidroxivitamina D.
+
+Resultados
+Os níveis de α‐1‐glicoproteína ácida foram maiores na obesidade abdominal de ambos os sexos. Os meninos com níveis séricos insuficientes de α‐tocoferol expressaram níveis reduzidos de α‐1‐glicoproteína ácida (p = 0,03) e apresentaram um maior risco de deficiência de 25‐hidroxivitamina D e β‐caroteno na adiposidade total e abdominal, enquanto as meninas mostraram maior risco de insuficiência de β‐caroteno com a obesidade abdominal (RP 1,33; IC 95% 1,2‐1,5).
+
+Conclusão
+A adiposidade abdominal reflete maior risco de inflamação e causa alterações distintas nas concentrações das vitaminas lipossolúveis, de acordo com o sexo.

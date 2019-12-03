@@ -1,0 +1,11 @@
+Objetivo
+Analisar o efeito do catch‐up de estatura na idade escolar na massa óssea em adolescentes em uma coorte brasileira de nascimento.
+
+Métodos
+Estudo de coorte, utilizando dados dos três momentos (nascimento, aos 7/9 anos e 18/19 anos) da pesquisa Coortes‐RPS. Catch‐up de estatura foi definida a partir da diferença entre o Z‐score do escolar e Z‐score do nascimento. Para a análise da massa óssea em adolescentes foi utilizado o índice Z‐score da coluna lombar medido pela densitometria por dupla emissão de raio X. Para análise proposta, foi construído modelo teórico usando os gráficos acíclicos direcionados e pareado por escore de propensão do tipo vizinho mais próximo utilizando o software STATA versão 14.0. O nível de significância adotado foi de 5%.
+
+Resultados
+Das 297 crianças, 24,58% realizaram o catch‐up estatural. Massa óssea abaixo do esperado para a idade foi de 5,39%. O Z‐score médio da coluna lombar foi −0,34 (± 1,01). Após ajuste, não foi observado efeito entre catch‐up de estatura na idade escolar e massa óssea no adolescente (Coef=0,598; IC 95% −0,117–1,313; p=0,101).
+
+Conclusão
+Mesmo com os gráficos acíclicos direcionados e o método de inferência causal por ajuste do escore de propensão, o catch‐up de estatura parece não afetar a massa óssea em adolescentes, resultado talvez relacionado ao tamanho da amostra.

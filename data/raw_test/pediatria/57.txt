@@ -1,0 +1,11 @@
+Objetivo
+Avaliar as associações entre insegurança alimentar (IA) e apoio social em famílias de crianças com doença falciforme (DF).
+
+Métodos
+Estudo transversal feito com as famílias de 190 crianças, de cinco a nove anos, atendidas em um hospital de referência em hematologia no Estado do Rio de Janeiro. A IA foi medida com a escala brasileira de insegurança alimentar e o apoio social foi medido com a versão brasileira do instrumento de pesquisa de apoio social MOS. A relação entre IA e o apoio social foi analisada por meio de um modelo logístico multinomial.
+
+Resultados
+Havia IA em 62,2% das famílias, nas formas moderada e grave em 11,1% e 7,9% dos casos, respectivamente. Em famílias de crianças com DF, os níveis de insegurança alimentar leve e grave (IAL e IAG) apresentaram relação inversa com os níveis de apoio social nas seguintes dimensões: apoio informativo (IAL OR = 0,98; IC 95%: 0,96‐0,99 e IAG OR = 0,95; IC 95%: 0,92‐0,98); interação social (IAL OR = 0,98; IC 95%: 0,96‐0,99 e IAG OR = 0,96; IC 95%: 0,93‐0,99) e material (apoio social tangível) (IAL OR = 0,97; IC 95%: 0,96‐0,99 e IAG OR = 0,97; 95% CI 0,94‐0,99).
+
+Conclusão
+Considerando os efeitos positivos do apoio social na IA, as políticas públicas devem ser encorajadas a garantir segurança alimentar e nutricional e assistência social para o atendimento de pessoas com DF. Além disso, os grupos de apoio social para pessoas com DF devem ser fortalecidos.

@@ -1,0 +1,11 @@
+Objetivo
+O teste das microbolhas estáveis no aspirado gástrico e no líquido amniótico foi usado no diagnóstico da síndrome do desconforto respiratório do recém‐nascido. Contudo, nenhum estudo fez esse teste nos aspirados bucais de neonatos prematuros. O objetivo deste estudo foi avaliar o desempenho do teste das microbolhas estáveis em aspirados bucais de recém‐nascidos prematuros para prever síndrome do desconforto respiratório.
+
+Método
+Este estudo incluiu neonatos com idade gestacional <34 semanas. Os fluidos orais foram obtidos imediatamente após o nascimento e os fluidos gástricos foram coletados nos primeiros 30 minutos de vida. As amostras foram congeladas e testadas em 72 horas.
+
+Resultados
+A amostra foi composta de aspirados pareados de 64 recém‐nascidos, divididos em dois grupos: grupo de síndrome do desconforto respiratório (n=21) e grupo de controle (n=43). A mediana (intervalo interquartil) da contagem das microbolhas estáveis nas amostras de fluido oral dos neonatos com síndrome do desconforto respiratório foi significativamente menor que a dos neonatos que não desenvolveram sintomas respiratórios: grupo de síndrome do desconforto respiratório=12 (8‐22) microbolhas estáveis/mm2; grupo de controle=100 (48‐230) microbolhas/mm2 (p <0,001). A correlação entre a contagem das microbolhas nos aspirados gástricos e bucais foi 0,90 (intervalo de confiança de 95%=0,85‐0,95; p <0,001). Considerando um ponto de corte de 25 microbolhas/mm2, a sensibilidade e a especificidade do teste das microbolhas estáveis foram 81,4% e 85,7%, respectivamente.
+
+Conclusão
+O estudo sugere que o teste das microbolhas estáveis feito no aspirado bucal é uma opção confiável ao fluido gástrico para a predição da síndrome do desconforto respiratório do recém‐nascido.

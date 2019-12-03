@@ -1,0 +1,11 @@
+Objetivo
+Descrever os resultados obtidos em um programa de triagem neonatal após sua implementação e avaliar os perfis clínicos e moleculares de casos confirmados e suspeitos de hiperplasia adrenal congênita.
+
+Métodos
+Foi feito um estudo transversal. Recém-nascidos com suspeita da doença devido aos altos níveis de 17-alfa-hidroxiprogesterona e ajustados pelo peso ao nascer foram selecionados. A hiperplasia adrenal congênita clássica (forma perdedora de sal e forma virilizante simples) foi diagnosticada por um aumento nos níveis de 17-alfa-hidroxiprogesterona confirmado no reteste, avaliação clínica e genótipo determinado com o uso do ensaio SNaPshot e amplificação multiplex de sondas dependente de ligação.
+
+Resultados
+Após 24 meses, 15 casos clássicos de hiperplasia adrenal congênita foram diagnosticados em 217.965 recém-nascidos, com uma incidência estimada de 1:14.531. De 132 pacientes, sete não clássicos e 14 heterozigotos foram submetidos à triagem para mutações no gene CYP21A2 e 96 pacientes apresentaram resultados falso‐positivos com CYP21A2 do tipo selvagem. No reteste, níveis aumentados de 17-alfa-hidroxiprogesterona foram encontrados em pacientes com hiperplasia adrenal congênita clássica e mostraram correlação significativa com HAC clássica relacionada ao genótipo. As mutações mais frequentes foram IVS2-13A/C>G, seguidas de deleção gênica ou eventos de rearranjo na forma clássica. Em casos de doenças não clássicas e heterozigose, a mutação p.Val282Leu foi a mais comum.
+
+Conclusões
+Os resultados ressaltam a eficácia da triagem neonatal para a hiperplasia adrenal congênita no sistema público de saúde e indicam que a estratégia adotada foi adequada. A segunda coleta de amostras, juntamente com a genotipagem dos casos suspeitos, ajudou a diagnosticar adequadamente os casos graves e mais leves e diferenciá-los de pacientes com resultado falso-positivo.

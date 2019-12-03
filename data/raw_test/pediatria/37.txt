@@ -1,0 +1,11 @@
+Objetivo
+Realizar uma revisão sistemática, com meta-análise e meta-regressão para relacionar os escores totais do controle da asma com o aumento dos escores totais dos níveis de qualidade de vida relacionada à saúde de pais de crianças asmáticas.
+
+Fontes
+As buscas foram aplicadas nas bases de dados: PubMed (Medline); Embase e ScienceDirect (Elsevier); SciELO e LILACs (Bireme). A busca foi realizada nas bases de dados em saúde em junho de 2017. Os estudos incluídos precisavam ter avaliados o controle da asma pelos questionários AsthmaControl Questionnaire (ACQ), AsthmaControl Test (C‐ACT/ACT) e Global Initiative for Asthma (GINA) e para a QVRS dos pais e familiares o Pediatric Asthma Caregiver's Quality of Life Questionnaire (PACQLQ).
+
+Resumo dos achados
+Foram avaliados 294 artigos nas bases de dados escolhidas, quanto aos níveis de duplicidade nas bases de dados (n=38), excluídos por falta de enquadramento na leitura dos títulos e resumos (n=239) e após leitura integral dos estudos (n=05), restaram 12 estudos elegíveis à meta‐análise. Dos 12 artigos elegíveis, 11 (92%) foram publicados nos últimos cinco anos, avaliaram crianças e adolescentes de 1 a 20 anos, total de 2.804 amostras. Na avaliação da correlação entre a pontuação dos escores de controle da doença por ACQ e C‐ACT/ACT, os resultados se mostraram satisfatórios tanto para as análises de ACQ [R2: −0.88; p <0,001], quanto para C‐ACT/ACT [R2: 0,82; p <0,001].
+
+Conclusões
+Os resultados demonstram que os níveis de controle da asma podem influenciar nos escores totais da QVRS de pais ou familiares de crianças e adolescentes com asma.

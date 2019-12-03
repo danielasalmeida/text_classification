@@ -1,0 +1,11 @@
+Objetivo
+Analisar a prevalência do consumo de alimentos ultraprocessados entre crianças com menos de um ano e identificar os fatores associados.
+
+Métodos
+Foi realizado um estudo transversal. Entrevistamos 198 mães de crianças com idades entre 6 e 12 meses em unidades de atenção primária à saúde localizadas em Embu das Artes, uma cidade da região metropolitana de São Paulo, Brasil. Alimentos específicos consumidos nas 24 horas anteriores à entrevista foram considerados para avaliar o consumo de alimentos ultraprocessados. As variáveis relacionadas às características das mães e crianças e as unidades de atenção primária à saúde foram agrupadas em três blocos de influência cada vez mais proximal com o resultado. Foi realizada uma análise de regressão de Poisson de acordo com um modelo estatístico hierárquico para determinar os fatores associados ao consumo de alimentos ultraprocessados.
+
+Resultados
+A prevalência de consumo de alimentos ultraprocessados foi 43,1%. As crianças que não eram amamentadas apresentaram maior prevalência de consumo de alimentos ultraprocessados, porém não foi encontrada diferença estatística. Menor nível de escolaridade materna (RP 1,55 [1,08–2,24]) e o fato de a primeira consulta da criança na unidade de atenção primária à saúde acontecer na primeira semana de vida (RP 1,51 [1,01–2,27]) foram fatores associados ao consumo de alimentos ultraprocessados.
+
+Conclusões
+Foi encontrado consumo elevado de alimentos ultraprocessados entre crianças com menos de um ano. A situação socioeconômica materna e o tempo da primeira consulta da criança na unidade de atenção primária à saúde foram associados à prevalência de consumo de alimentos ultraprocessados.

@@ -1,0 +1,11 @@
+Objetivo
+Apesar dos estudos terem focado em reinternações precoces ou reinternações durante a mesma internação na unidade de terapia intensiva pediátrica, pouco se sabe sobre essas crianças com internações recorrentes. Buscamos avaliar as características dos pacientes reinternados em 1 ano em uma unidade de terapia intensiva pediátrica brasileira.
+
+Métodos
+Este foi um estudo retrospectivo realizado em uma unidade de terapia intensiva pediátrica terciária. O resultado foi o número máximo de reinternações por cada criança em qualquer período de 365 dias durante um período de acompanhamento de 5 anos.
+
+Resultados
+Do total de 758 internações elegíveis, 75 pacientes (9,8%) foram de reinternações. Esses pacientes representaram 33% de todos os dias de cuidados com os internados na unidade de terapia intensiva pediátrica. O tempo mediano para a reinternação foi 73 dias para todas as reinternações. A regressão logística mostrou que as doenças crônicas complexas (razão de chance de 1,07), deficiência cognitiva grave a moderada (razão de chance de 1,08) e uso de suporte de aparelhos tecnológicos (razão de chance de 1,17) foram associados às reinternações. As múltiplas internações apresentaram duração significativamente prolongada na ventilação mecânica (8 em comparação a 6 dias), maior tempo de internação na unidade de terapia intensiva pediátrica (7 em comparação a 4 dias) e tempos de internação (20 em comparação a 9 dias) e maior taxa de mortalidade (21,3% em comparação a 5,1%), em comparação às internações iniciais.
+
+Conclusão
+A taxa de reinternações na unidade de terapia intensiva pediátrica em 1 ano foi baixa, porém foi associada a um número relevante de cuidados durante internação e piores resultados. Um índice de reinternação de 30 dias pode ser inadequado para refletir a grande número de reinternações na unidade de terapia intensiva pediátrica. Os pacientes com doenças crônicas complexas, estado funcional ruim ou suporte de aparelhos tecnológicos correm maior risco de reinternações. Estudos futuros devem abordar o impacto das intervenções qualitativas sobre os serviços de saúde e as internações recorrentes.

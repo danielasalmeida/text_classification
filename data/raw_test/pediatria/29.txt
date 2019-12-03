@@ -1,0 +1,11 @@
+Objetivo
+Identificar as causas da microcefalia congênita no Rio Grande do Sul, Região Sul do Brasil, onde não foi detectado surto de ZIKV, de dezembro de 2015 a dezembro de 2016. Esse foi o período em que a infecção por ZIKV estava em seu auge no Nordeste do Brasil.
+
+Métodos
+Este é um estudo transversal no qual todas as notificações de microcefalia congênita no estado do Rio Grande do Sul foram incluídas para análise. A avaliação dos casos seguiu as orientações do Ministério da Saúde. A avaliação dismorfológica e neurológica foi feita por uma equipe especializada e os testes genéticos e as neuroimagens foram feitos quando indicado clinicamente. As infecções STORCH (Sífilis, Toxoplasmose, Rubéola, Citomegalovírus e Herpes simples) foram diagnosticadas utilizando testes padrão. A infecção por ZIKV foi diagnosticada por meio da transcriptase reversa seguida de reação em cadeia da polimerase (RT‐PCR) no soro materno e/ou neuroimagem associada a critérios clínicos/epidemiológicos.
+
+Resultados
+De 153.744 nascidos vivos registrados no período do estudo, 148 bebês foram casos notificados, porém 90 (60,8%) casos foram excluídos posteriormente como microcefalia “não confirmada”. Nos 58 casos confirmados de microcefalia (prevalência = 3,8/10.000 nascidos vivos), as infecções congênitas (sífilis, toxoplasmose, citomegalovírus e ZIKV) constituíram a etiologia predominante (50,0%), seguidas de doenças ligadas ao SNC isolado (15,5%) e síndromes genéticas (10,3%). A síndrome congênita do ZIKV (SCZ) com fenótipo típico foi diagnosticada em três casos (5,2% de todos os casos confirmados de microcefalia ou 10,4% de todas as infecções congênitas).
+
+Conclusão
+No Rio Grande do Sul, Brasil, onde não foi registrado surto de infecção por ZIKV, a principal causa de microcefalia congênita foram infecções congênitas e o risco atribuível para SCZ na etiologia de microcefalia foi de 5,2%.

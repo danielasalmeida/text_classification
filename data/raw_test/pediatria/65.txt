@@ -1,0 +1,11 @@
+Objetivo
+Avaliar a prevalência e os riscos de recém‐nascidos abaixo do peso, baixa estatura e emaciação por idade gestacional da Província de Jujuy, Argentina, em diferentes níveis de altitude.
+
+Métodos
+Recém‐nascidos vivos (n = 48.656) nascidos entre 2009 e 2014 em instalações públicas entre 24+0‐42+6 semanas de idade gestacional. Os fenótipos de abaixo do peso (< P3 peso/idade), baixa estatura (< P3 comprimento/idade) e emaciação (< P3 índice de massa corporal/idade) foram calculados com os padrões do INTERGROWTH-21st. Os fatores de risco foram idade materna, escolaridade, índice de massa corporal, paridade, diabetes, hipertensão, pré‐eclâmpsia, tuberculose, prematuridade e malformações congênitas. Os dados foram agrupados pela altitude geográfica: ≥ 2.000 ou < 2.000 m.a.s.l. O teste qui‐quadrado e a análise de regressão logística multivariada foram feitos para estimar o risco dos fenótipos associados ao nível de altitude ≥ 2.000 m.a.s.l.
+
+Resultados
+A prevalência de abaixo do peso, baixa estatura e emaciação foi de 1,27%, 3,39% e 4,68%, respectivamente, significativamente maiores em > 2.000 m.a.s.l. A idade materna, índice de massa corporal > 35kg/m2, hipertensão, malformações congênitas e prematuridade foram mais fortemente associados a abaixo do peso e não a baixa estatura ou emaciação em ≥ 2.000 m.a.s.l.
+
+Conclusões
+Os riscos de abaixo do peso, baixa estatura e emaciação foram maiores em altitude mais elevada e foram associados a condições maternas e fetais reconhecidas. O uso desses três fenótipos ajudará a priorizar as intervenções preventivas e focar no manejo da desnutrição fetal.

@@ -1,0 +1,11 @@
+Objetivo
+Avaliar a associação entre atividade física total, atividade física no tempo livre e estado nutricional com a autopercepção de saúde em adolescentes de ambos os sexos.
+
+Métodos
+Trata‐se de um estudo com abordagem quantitativa, que integra o levantamento epidemiológico transversal de base escolar e abrangência estadual, cuja amostra foi constituída por 6.261 adolescentes (14 a 19 anos) selecionados por meio de uma estratégia de amostragem aleatória de conglomerados. Os dados foram coletados a partir do questionário Global School‐based Student Health Survey. O teste de qui‐quadrado (χ2) e o modelo de regressão de Poisson com variância robusta foram usados nas análises dos dados.
+
+Resultados
+Observou‐se que 27,3% dos adolescentes tinham uma autopercepção de saúde negativa, maior entre as meninas (33,0% vs. 19,0%; p<0,001). Após o ajuste pelos potenciais fatores de confusão, constatou‐se que tinham maior chance de ter uma autopercepção de saúde negativa os meninos que não praticavam atividade física no tempo livre (RP=1,44; IC 95%: 1,15‐1,81) e que eram classificados como insuficientemente ativos (RP=1,27; IC 95%: 1,04‐1,56) e as meninas que não praticavam atividade física no tempo livre (RP=1,15; IC 95%: 1,02‐1,29) e que eram classificadas como sobrepesadas (RP=1,27; IC 95%: 1,01‐1,29).
+
+Conclusão
+Questões comportamentais podem ter diferentes repercussões na autopercepção de saúde quando comparados os meninos e meninas. A autopercepção de saúde negativa esteve associada ao estado nutricional entre as meninas e a um menor nível de atividade física entre os meninos e a prática de atividade física no tempo livre foi tida como fator de proteção para uma autopercepção de saúde negativa para os adolescentes de ambos os sexos.

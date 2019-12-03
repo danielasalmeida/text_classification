@@ -1,0 +1,11 @@
+Objetivo
+Considerando a importância de incorporar ferramentas simples e de baixo custo no cenário clínico-pediátrico para a triagem de resistência à insulina, o presente estudo buscou investigar se a razão cintura/estatura é comparável a marcadores bioquímicos na discriminação de resistência à insulina em crianças e adolescentes.
+
+Métodos
+Este estudo transversal envolveu estudantes de nove escolas públicas. No total, 296 crianças e adolescentes, de ambos os sexos, com idades entre 8 e 14 anos, compuseram a amostra. A razão cintura/estatura, o índice triglicerídeos/glicose e a razão triglicerídeos/HDL-C foram determinados de acordo com protocolos padrão. A resistência à insulina foi definida por meio do modelo de avaliação homeostática para resistência insulínica, com ponto de corte ≥ 3.16.
+
+Resultados
+Idade, índice de massa corporal, frequência de excesso de peso, circunferência da cintura, razão cintura/estatura, insulina, glicemia, modelo de avaliação homeostática para resistência insulínica, triglicerídeos, índice triglicerídeos/glicose e razão triglicerídeos/HDL-C foram maiores entre meninos e meninas com resistência à insulina. Também foram observadas, em ambos os sexos, correlações moderadas de todos os indicadores (razão cintura/estatura, índice triglicerídeos/glicose e razão triglicerídeos/HDL-C) com o modelo de avaliação homeostática para resistência à insulina. As áreas sob as curvas ROC foram semelhantes entre a razão cintura/estatura e os marcadores bioquímicos.
+
+Conclusão
+Os indicadores forneceram poder discriminatório similar para a resistência à insulina. No entanto, levando em conta o custo-benefício, sugerimos que a razão cintura/estatura pode ser uma ferramenta útil para a triagem de resistência à insulina em populações pediátricas.

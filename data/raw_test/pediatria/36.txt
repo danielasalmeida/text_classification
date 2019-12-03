@@ -1,0 +1,11 @@
+Objetivos
+Este estudo teve como objetivo avaliar a qualidade das revisões sistemáticas sobre prevenção e tratamento não farmacológico do sobrepeso e da obesidade em crianças e adolescentes.
+
+Fontes de dados
+Foi realizada uma busca em bases de dados eletrônicas (Medline via Pubmed, Web of Science, Scopus, LILACS, The Cochrane Library e Ensaios Clínicos), incluindo apenas revisões sistemáticas com meta-análise. As revisões foram selecionadas por dois pesquisadores e um terceiro resolveu as divergências. A lista de recomendações do PRISMA foi seguida.
+
+Síntese dos dados
+Foram identificados 4.574 publicações, e 24 foram incluídas após seleção. Seis publicações eram sobre prevenção da obesidade, 17 sobre tratamento da obesidade e 1 sobre intervenções mistas para prevenção e tratamento da obesidade. As intervenções eram muito heterogêneas e mostraram pouco ou nenhum efeito sobre o peso ou índice de massa corporal. Intervenções mistas que incluíam dieta, exercícios, ações para reduzir o comportamento sedentário e programas que envolviam a escola ou as famílias mostraram alguns efeitos positivos de curto prazo. Revisões que analisaram fatores de risco cardiovascular demonstraram melhoras significativas em curto prazo.
+
+Conclusão
+As revisões sistemáticas de intervenções para prevenir ou reduzir a obesidade em crianças e adolescentes geralmente mostraram pouco ou nenhum efeito sobre o peso ou índice de massa corporal, embora o perfil cardiovascular possa ter melhorado. Intervenções mistas demonstraram melhores efeitos, mas o impacto em longo prazo dos tratamentos da obesidade de crianças e adolescentes ainda não está claro.

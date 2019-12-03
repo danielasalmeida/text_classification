@@ -1,0 +1,11 @@
+Objetivo
+A finalidade deste estudo foi exemplificar a associação entre o nível de fator de crescimento endotelial vascular e a hipertensão arterial pulmonar em crianças com talassemia beta maior.
+
+Método
+Este estudo caso‐controle foi realizado em 116 crianças com talassemia beta maior; 58 das quais apresentaram hipertensão arterial pulmonar em comparação com 58 crianças saudáveis pareadas por idade e sexo (grupo de controle). Os níveis séricos do fator de crescimento endotelial vascular e a avaliação ecocardiográfica foram realizados em todas as crianças.
+
+Resultados
+O nível sérico do fator de crescimento endotelial vascular foi significativamente maior em crianças com talassemia beta maior com hipertensão arterial pulmonar que as crianças sem hipertensão arterial pulmonar e os grupos de controle (p<0,001). O nível sérico do fator de crescimento endotelial vascular apresentou uma correlação positiva significativa com a pressão arterial pulmonar e a ferritina sérica e correlação negativa significativa com a duração da terapia de quelação. A análise de regressão logística revelou que o fator de crescimento endotelial vascular elevado (RC=1,5; IC de 95%: 1,137‐2,065; p=0,005) foi um fator de risco independente de hipertensão arterial pulmonar nessas crianças. O nível sérico do fator de crescimento endotelial vascular no ponto de corte> 169 (pg/mL) apresentou 93,1% de sensibilidade e 93,1% de especificidade na presença de hipertensão arterial pulmonar em crianças com talassemia beta maior.
+
+Conclusão
+O nível sérico do fator de crescimento endotelial vascular elevado está associado à hipertensão arterial pulmonar em crianças com talassemia beta.

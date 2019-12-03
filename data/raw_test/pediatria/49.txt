@@ -1,0 +1,11 @@
+Objetivo
+Identificar a qualidade de vida relacionada à saúde entre adolescentes com excesso de peso e fatores associados, como gênero, idade e categorias de peso.
+
+Método
+Estudo transversal com dados coletados e secundários de 276 adolescentes entre 10 e 19 anos, com sobrepeso e obesidade, cujos responsáveis autorizaram a participação. Foram coletados dados antropométricos, desenvolvimento puberal e questionário PedsQL 4.0 para a avaliação da qualidade de vida relacionada à saúde. Os dados categóricos foram descritos por contagens e percentuais. Para a descrição das subescalas da qualidade de vida relacionada à saúde foram usadas medianas e percentis 25 e 75 e teste de Mann‐Whitney para comparações entre grupos de faixa etária, gênero e categorias de peso.
+
+Resultados
+A mediana do escore total da qualidade de vida relacionada à saúde foi de 78,3 (68,5‐87,4). A menor escala foi o “escore emocional” 65 (50‐80). Encontramos a qualidade de vida relacionada à saúde maior nos meninos na maioria dos escores (p<0,05), exceto o “escore escolar” (p=0,09). Quanto à faixa etária, a mediana dos “escores físico” (p=0,03) e “escore social” (p=0,02) foram significativamente menores no grupo menor de 14 anos. Ao separar as categorias de peso, percebe‐se que os adolescentes obesos diferem significativamente com relação ao “escore físico” (p=0,00); “escore escolar” (p=0,04) e “escore total” (p=0,02) da qualidade de vida relacionada à saúde. Contudo, não houve diferença significativa entre os escores emocional, social e psicossocial.
+
+Conclusões
+Adolescentes com sobrepeso e obesidade têm prejuízos na qualidade de vida relacionada à saúde e também entre os diferentes domínios, quando separados por faixa etária, gênero e categorias de peso.

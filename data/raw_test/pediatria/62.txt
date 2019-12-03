@@ -1,0 +1,11 @@
+Objetivo
+Relacionar a espessura da gordura intra‐abdominal medida pela ultrassonografia aos fatores ligados à síndrome metabólica. Determinar pontos de corte da medida da gordura intra‐abdominal associados a uma maior chance de síndrome metabólica em adolescentes.
+
+Métodos
+Estudo seccional, com 423 adolescentes de escolas públicas. A gordura intra‐abdominal foi medida pela ultrassonografia. Foram coletados dados antropométricos e feitas análises bioquímicas.
+
+Resultados
+As medidas da gordura intra‐abdominal por ultrassonografia apresentaram associação estatisticamente significativa com o diagnóstico de síndrome metabólica (p=0,037), índice de massa corporal (p<0,001), níveis elevados de triglicerídeos (p=0,012), redução dos níveis plasmáticos de HDL (p=0,034) e aumento da pressão arterial sistêmica (p=0,023). Calcularam‐se pontos de corte da medida da espessura da gordura intra‐abdominal por ultrassom, para estimar os indivíduos com mais chance para o desenvolvimento de síndrome metabólica. Em modelos de regressão logística, os pontos de corte que apresentaram maior associação com a síndrome metabólica no sexo masculino foram de 4,50, 5,35, 5,46, 6,24 e 6,50cm para as idades de 14, 15, 16, 17 e 18/19 anos, respectivamente. No sexo feminino, os pontos de corte definidos para as mesmas faixas etárias foram de 4,46, 4,55, 4,45, 4,90 e 6,46cm. Em análise global por meio da curva ROC, sem estratificações por sexo e idade, o ponto de corte de 3,67cm teve boa sensibilidade, porém apresentou baixa especificidade.
+
+Conclusão
+A ultrassonografia é um método útil para a estimativa do tecido adiposo intra‐abdominal em adolescentes, está associada com os principais fatores relacionados à obesidade e à síndrome metabólica.

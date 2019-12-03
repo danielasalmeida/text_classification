@@ -1,0 +1,11 @@
+Objetivo
+Investigar a associação entre asma, tabagismo e possíveis fatores associados em adolescentes brasileiros.
+
+Métodos
+Estudo transversal, nacional, de base escolar, envolveu adolescentes com 12 a 17 anos, participantes do Estudo de Riscos Cardiovasculares em Adolescentes (ERICA). Os 66.394 participantes responderam questionários autopreenchíveis com questões sobre asma, tabagismo, estilo de vida e dados sociodemográficos. Foram realizadas análises bivariadas entre asma ativa e asma grave e demais variáveis do estudo, com o uso de χ2. Em seguida, foram estimadas as razões de prevalência (RP) brutas e ajustadas e seus respectivos intervalos de confiança de 95% (IC 95%), entre asma ativa/asma grave e variáveis de tabagismo, corrigidas pelas variáveis sociodemográficas e de estilo de vida, através de modelos lineares generalizados com regressão de Poisson, função de ligação logarítmica e variância robusta.
+
+Resultados
+A prevalência de asma ativa e asma grave foi significativamente mais elevada naqueles expostos a experimentação (asma ativa: RP=1,78; IC 95%: 1,51–2,09; asma grave: RP=2,01; IC 95%: 1,35–2,98); tabagismo atual (asma ativa: RP=2,08; IC 95%: 1,65–2,64; asma grave: RP=2,29; IC 95%: 1,38–3,82); tabagismo frequente (asma ativa: RP=2,25; IC 95%: 1,64–3,07; AG=2,41; IC 95%: 1,23–4,73) e tabagismo passivo (asma ativa: RP=1,47; IC 95%: 1,27–1,67; asma grave: RP=1,66; IC 95%: 1,19–2,32). As associações permaneceram significativas após ajuste.
+
+Conclusão
+A asma e o tabagismo se associaram de modo significativo em adolescentes brasileiros independente de fatores sociodemográficos e estilo de vida, especialmente naqueles com doença mais grave.

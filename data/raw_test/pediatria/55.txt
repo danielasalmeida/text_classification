@@ -1,0 +1,11 @@
+Objetivo
+Avaliar a prevalência de síndrome metabólica “like” em população de crianças prematuras com muito baixo peso de nascimento (< 1500 gramas) aos dois anos de idade corrigida e identificar a ocorrência de fatores de risco associados.
+
+Métodos
+Estudo transversal que incluiu prematuros nascidos durante um período de cinco anos com muito baixo peso de nascimento, avaliados aos dois anos de idade corrigida. A síndrome metabólica “like” foi definida pela presença de três ou mais desses critérios: circunferência abdominal ≥ percentil 90, glicemia de jejum ≥ 100mg/dL, triglicerídeos ≥ 110mg/dL, colesterol HDL ≤ 40mg/dL e pressão arterial ≥ percentil 90.
+
+Resultados
+Foram avaliados 214 prematuros abaixo de 1.500 gramas. A prevalência de síndrome metabólica “like” aos dois anos de idade corrigida foi 15,1%. Hipertensão arterial esteve presente em 57,5%, HDL ≤ 40mg/dL em 29,2%, hipertrigliceridemia em 22,6% e aumento da circunferência abdominal acima do percentil 90 em 18,8%. Apenas 3,7% apresentaram hiperglicemia. A presença de leucomalácia periventricular foi um fator de risco independente para hipertensão arterial nessa idade (OR 2,34; IC 95% 0,079‐0,69; p=0,008); sobrepeso e obesidade aos dois anos de idade corrigida foram independentemente associados com síndrome metabólica “like” (OR 2,75, IC 95% CI 1,19‐6,36; p=0,018).
+
+Conclusão
+Síndrome metabólica “like” ocorre em prematuros de muito baixo peso tão precocemente quanto dois anos de idade corrigida. Sobrepeso e obesidade de início precoce são fatores de risco significativos para síndrome metabólica “like”, merecem intervenção apropriada para essa população de alto risco.

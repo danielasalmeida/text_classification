@@ -1,0 +1,11 @@
+Objetivo
+Identificar, através de uma revisão sistemática e da metanálise de estudos observacionais, quais fatores de risco associam‐se significativamente com a mortalidade neonatal no Brasil e construir uma análise nacional abrangente sobre a mortalidade neonatal.
+
+Fontes
+Foram avaliados os estudos observacionais sobre mortalidade neonatal realizados entre 2000 e 2018 em cidades brasileiras. Usaram‐se as bases MEDLINE, Elsevier, Cochrane, LILACS, SciELO e OpenGrey. Para a análise qualitativa, foi usada a Escala Newcastle‐Ottawa. Para a análise quantitativa, foram utilizados os logaritmos naturais das medidas de risco e de seus intervalos de confiança, o método de DerSimonian e Laird como modelo de efeitos aleatórios e o modelo de Mantel‐Haenszel para estimativa da heterogeneidade. Considerou‐se nível de confiança de 95%.
+
+Resumo dos achados
+A análise qualitativa resultou em seis estudos de baixo e quatro estudos de intermediário‐baixo risco de viés. Foram significativos os seguintes fatores de exposição: ausência de companheiro, idade materna ≥ 35 anos, sexo masculino, gestação múltipla, pré‐natal inadequado e ausente, presença de intercorrências durante a gestação, de malformação congênita na gestação em estudo, Apgar < 7 no quinto minuto, baixo e muito baixo peso ao nascer, idade gestacional ≤ 37 semanas e parto cesariano.
+
+Conclusão
+Os fatores de risco mais significativos apresentados neste estudo são modificáveis, o que possibilita almejar uma redução real das mortes neonatais, que ainda permanecem elevadas no país.

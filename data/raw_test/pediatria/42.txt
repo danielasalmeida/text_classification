@@ -1,0 +1,11 @@
+Objetivo
+O diagnóstico da fibrose cística depende do valor da concentração de íons de cloreto no teste do suor (≥ 60 mEq/mL – reconhecido como o indicador‐padrão para o diagnóstico da doença). Além disso, as glândulas salivares expressam a proteína RTFC igualmente às glândulas sudoríparas. Nesse contexto, nosso objetivo foi verificar a correlação da concentração de cloreto na saliva e a concentração de cloreto no suor e entre a concentração de sódio na saliva e a concentração de sódio no suor em pacientes com fibrose cística e indivíduos controles saudáveis, como uma ferramenta para diagnóstico de fibrose cística.
+
+Métodos
+Contamos com a participação de 160 indivíduos [57/160 (35,70%) com fibrose cística e duas mutações no gene RTFC conhecidas e 103/160 (64,40%) indivíduos controles saudáveis]. A concentração de íons na saliva foi analisada pelo equipamento ABL 835da Radiometer® e a concentração de cloreto no suor e sódio no suor, respectivamente, por titulação manual utilizando o método mercurimétrico de Schales & Schales e fotometria de chama. A análise estatística foi realizada pelo teste qui‐quadrado, pelo teste de Mann‐Whitney e pela correlação de Spearman. Alpha=0,05.
+
+Resultados
+Os pacientes com fibrose cística apresentaram maiores valores na concentração de cloreto no suor,concentração de sódio no suor,concentração de cloreto na saliva e concentração de sódio na saliva do que os indivíduos‐controle saudáveis (valor de p<0,001). A correlação entre as concentrações de cloreto na saliva e cloreto no suor mostrou Rho de Spearman (coeficiente de correlação) positivo=0,475 (IC de 95%=0,346 a 0,587). Além disso, a correlação entre concentração de sódio na saliva e concentração de sódio no suor mostrou Rho de Spearman positivo=0,306 (IC de 95%=0,158 a 0,440).
+
+Conclusões
+A concentração de cloreto na saliva e a concentração de sódio na saliva são candidatas a ser usadas como diagnóstico de fibrose cística, principalmente em casos em que é difícil atingir a quantidade correta de suor, e/ou o exame da mutação RTFC é difícil e/ou o método de referência para o teste do suor não se encontra disponível ou não é de fácil acesso ao público em geral.

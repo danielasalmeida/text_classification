@@ -1,0 +1,11 @@
+Objetivos
+A prevalência da obesidade está aumentando. O objetivo deste estudo foi investigar se há disfunção endotelial nas crianças com peso normal ou excesso de peso e se o perfil metabólico, as adipocinas e a disfunção endotelial seriam mais fortemente associados à aptidão física ou aos níveis de atividade física.
+
+Método
+Estudo transversal que envolve crianças de 5‐12 anos. A avaliação incluiu pletismografia de oclusão venosa, níveis séricos de adiponectina, leptina, insulina e lipidograma, escore de atividade física (questionário PAQ‐C) e avaliação da aptidão física (teste Yo‐yo).
+
+Resultados
+Um total de 62 crianças participou deste estudo. Com base no índice de massa corporal, 27 eram eutróficos, 10 estavam acima do peso e 25 estavam obesos. Os níveis de triglicerídeos, colesterol LDL, HOMA-RI e leptina estavam mais elevados nas crianças obesas e com excesso de peso que o grupo de eutróficos (p < 0,01). Os níveis de colesterol HDL e adiponectina estavam mais elevados no grupo de eutróficos em comparação ao grupo de obesos e com excesso de peso (p < 0,01). A vasodilatação mediada pelo fluxo após hiperemia foi maior no grupo de eutróficos em comparação aos indivíduos obesos e com excesso de peso (p < 0,05). Não houve nenhuma diferença nos níveis de atividade física entre os grupos medidos pelo PAQ-C. O teste de ida e volta foi significativamente associado ao colesterol HDL (ró = −0,41; p = 0,01) e essa associação continuou após ajustar o escore z do índice de massa corporal (ró = 0,28; p = 0,03).
+
+Conclusão
+Este estudo mostrou que a disfunção endotelial já está presente nas crianças obesas, sugeriu uma predisposição à doença aterosclerótica. Além disso, os níveis de colesterol HDL foram correlacionados à aptidão física, independentemente do índice de massa corporal.

@@ -1,0 +1,11 @@
+Objetivo
+Validar a versão em português do Questionário de Avaliação do Ambiente Familiar (Inventaire du Milieu Familial).
+
+Métodos
+O processo de validação foi feito em duas etapas. Primeiramente, realizou‐se a tradução e retrotradução e, na segunda fase, o questionário foi aplicado em 72 famílias de crianças entre zero e 24 meses para o processo de validação. O instrumento é formado pelos seguintes domínios: Capacidade de comunicação da mãe; Comportamento; Organização do ambiente físico e temporal; Acervo/quantidade de brinquedos; Implicação da mãe com seu bebê; Diversificação de estímulos; Comportamento do bebê. Para a validação da escala foi realizada: 1‐ análise de conteúdo (julgamento); 2‐ análise de construto (análise fatorial ‐ testes Kaiser‐Meyer‐Olkin, Bartlett e correlação de Pearson); 3‐ análise de critério (cálculo do coeficiente alfa de cronbach, correlações intraclasse e correlações split‐half).
+
+Resultados
+A média de idade das crianças foi 9±6,7 meses e, dessas, 35 (48,6%) eram do sexo masculino. A maioria das correlações entre os itens e os domínios foi significativa. Na análise fatorial da escala, os valores de Kaiser‐Meyer‐Olkin foram 0,76, teste de Bartlett com p<0,001 e correlação entre os itens e domínios p<0,01. Em relação à validade, o alfa de Cronbach foi de 0,92 (IC 95% 0,89‐0,94). A correlação intraclasse entre os avaliadores foi de 0,97 (0,96‐0,98) e correlações split‐half r: 0,60 p<0,01.
+
+Conclusões
+A versão portuguesa do Inventaire du Milieu Familial apresentou um bom à excelente desempenho nas propriedades psicométricas avaliadas.

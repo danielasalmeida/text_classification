@@ -1,0 +1,11 @@
+Objetivos
+Examinar as relações longitudinais (sete anos) entre a aptidão cardiorrespiratória (VO2 pico), gordura corporal e coordenação motora.
+
+Método
+Os dados foram coletados como parte do Copenhagen School Child Intervention Study (CoSCIS). A gordura corporal foi avaliada pela soma de quatro dobras cutâneas. O VO2 pico foi medido diretamente em um protocolo de corrida contínua. A coordenação motora foi avaliada com o teste de coordenação corporal para crianças (Körperkoordination für Kinder – KTK). Usamos modelos lineares mistos multiníveis para avaliar a associação longitudinal recíproca entre a gordura corporal, o VO2 pico e a coordenação motora. Todas as regressões foram estratificadas por sexo e ajustadas para intervenção e estado puberal. Todos os coeficientes das variáveis foram padronizados.
+
+Resultados
+Observamos uma relação recíproca entre a coordenação motora e a gordura corporal. As crianças com maior coordenação motora no início do estudo apresentaram menor risco de ter maior nível de gordura corporal (βmeninos=‐0,45, IC de 95%: ‐0,52: ‐0,38; βmeninas=‐0,35, IC de 95%: ‐0,42: ‐0,28) e maior VO2 pico (βmeninos=0,34, IC de 95%: 0,27: 0,40; βmeninas=0,27, IC de 95%: 0,20: 0,33). Por outro lado, maior nível de gordura corporal ou menores níveis de VO2 pico no início do estudo foram associados a menor coordenação motora durante a infância.
+
+Conclusões
+Esses dados sugerem que a coordenação motora, gordura corporal e VO2 pico demonstram relações recíprocas durante a infância (6‐13 anos). São recomendadas intervenções que abordem a coordenação motora, a aptidão cardiorrespiratória e a gordura corporal na primeira infância, pois os efeitos da intervenção são provavelmente maiores devido às associações recíprocas mútuas entre essas três variáveis.

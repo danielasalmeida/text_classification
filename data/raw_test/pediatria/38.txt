@@ -1,0 +1,11 @@
+Objetivo
+Analisar a associação dos padrões de sono com o desempenho acadêmico e cognitivo em adolescentes e testar o efeito mediador potencial de diferentes atividades com uso de dispositivos (mídias) com tela nessa associação.
+
+Métodos
+Uma amostra de 269 adolescentes (140 meninos) de 14 anos, da linha de base do estudo DADOS (Deporte, ADOlescencia y Salud) preencheu uma série de questionários sobre qualidade do sono, desempenho cognitivo e comportamentos sedentários no lazer. A duração do sono foi calculada objetivamente com um acelerômetro de pulso GENEActiv e o desempenho acadêmico foi analisado por meio de registros escolares.
+
+Resultados
+A qualidade do sono (mas não a duração do sono) foi associada a todos os indicadores de desempenho acadêmico (todos os valores de p<0,05). A análise de covariância revelou notas mais altas nos adolescentes com melhor qualidade de sono (PSQI≤5; todos os valores de p<0,05). Essas análises não mostraram diferenças em relação ao desempenho cognitivo. O tempo de uso da Internet revelou‐se como um mediador da associação entre qualidade do sono e desempenho acadêmico, foi significativo para todos os indicadores de desempenho acadêmico (PM variou de 15,5% a 16,0%).
+
+Conclusões
+A associação entre qualidade do sono e desempenho acadêmico em adolescentes é mediada pelo tempo de uso da internet. No geral, reduzir o tempo de uso da internet pelos adolescentes pode ser uma intervenção viável para melhorar a qualidade do sono, com efeitos potencialmente positivos no desempenho acadêmico.

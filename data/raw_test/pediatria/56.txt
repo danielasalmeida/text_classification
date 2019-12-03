@@ -1,0 +1,11 @@
+Objetivo
+Descrever e analisar indicadores das práticas relacionadas ao aleitamento materno e fatores associados ao aleitamento materno exclusivo em um aglomerado urbano subnormal (favela) em Pernambuco.
+
+Métodos
+Foram usados quatro indicadores do aleitamento materno mediante entrevista com as mães de menores de três anos. Fez‐se um inventário de fatores socioambientais das famílias, antecedentes obstétricos e acesso às ações básicas de saúde. A amostra inclui todas as 310 crianças da Comunidade de Coelhos, PE, Brasil. Feitas correlação de Spearman e razões de prevalências brutas e ajustadas que compuseram um modelo estatístico final que evidenciou os fatores associados ao principal desfecho ao nível de 0,05.
+
+Resultados
+A prevalência do aleitamento materno na primeira hora de vida, aleitamento materno exclusivo aos 6 meses, amamentação continuada até um ano e dois anos foram, respectivamente, 60,2%, 32,9%, 45,9% e 35,9%. Na correlação entre o início do uso de chupeta e a duração do aleitamento, exclusivo ou não, obtiveram‐se respectivamente os coeficientes rs = 0,358 (p < 0,001) e rs = 0,248 (p = 0,006). No modelo final permaneceram como fatores de proteção: a idade materna acima de 35 anos (p < 0,001), a visita domiciliar na primeira semana de vida (p = 0,003), o sexo masculino (p = 0,029) e o não uso da chupeta (p < 0,001).
+
+Conclusão
+Os índices de prevalência do aleitamento materno exclusivo aos 6 meses foram bem superiores aos resultados obtidos por outras pesquisas nacionais. A visita domiciliar e a idade materna prevaleceram como fatores de proteção e o uso de chupeta como uma prática desestimulante.

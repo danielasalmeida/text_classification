@@ -1,0 +1,11 @@
+Objetivo
+Avaliar a relação entre o índice de massa corporal e a aptidão física em uma amostra transversal de jovens brasileiros.
+
+Métodos
+Os participantes foram 3.849 adolescentes (2.027 meninas) entre 10‐17 anos. Foram medidos o peso e a estatura e foi calculado o índice de massa corporal. A aptidão física foi avaliada com: a corrida vaivém de 20 metros de vários estágios (resistência cardiovascular), impulsão horizontal (energia) e flexões (força superior do corpo). Os participantes foram agrupados por sexo em quatro faixas etárias: 10‐11, 12‐13, 14‐15 e 16‐17 anos. A Anova específica para sexo foi usada para avaliar as diferenças em cada item de aptidão física entre as categorias de status do peso por faixa etária. As relações entre o índice de massa corporal e cada item de aptidão física foram avaliadas com os modelos de regressão quadrática por faixa etária com relação ao sexo.
+
+Resultados
+A aptidão física de jovens magros e normais foi, com poucas exceções, significativamente melhor do que a aptidão física de jovens com sobrepeso e obesos em cada faixa etária por sexo. Por outro lado, os desempenhos na aptidão física não diferiram de forma consistente, em média, entre jovens magros e com peso normal e entre jovens com sobrepeso e obesos. Os resultados das regressões quadráticas indicaram uma relação curvilínea (parabólica) entre o índice de massa corporal e cada item de aptidão física na maior parte das faixas etárias. Os melhores desempenhos foram obtidos pelos adolescentes na faixa intermediária da distribuição do índice de massa corporal, ao passo que os desempenhos dos jovens nas extremidades inferiores e superiores da distribuição do índice de massa corporal foram menores.
+
+Conclusão
+As relações entre o índice de massa corporal e a aptidão física foram, em geral, não lineares (parabólica) nos jovens entre 10‐17 anos.

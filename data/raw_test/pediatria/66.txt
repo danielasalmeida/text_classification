@@ -1,0 +1,19 @@
+Lemos atentamente o artigo publicado por de Mello et al.;1 encontramos várias questões importantes a serem discutidas.
+
+Em relação ao tópico clínico, a inclusão de estudos foi baseada nos Critérios de Roma III; no entanto, descobrimos que os autores classificaram erroneamente quatro dos nove artigos incluídos nessa revisão sistemática: Castillejo et al.2 usaram efetivamente critérios de constipação funcional (CF) de acordo com Roma II; Mozaffarpur et al.3 incluíram pacientes com ambos: Critérios de Roma III juntamente com o Consenso de Paris sobre os Critérios de Terminologia da Constipação Infantil; Loening‐Baucke4 definiu CF de acordo com o Medical Position Statement of the North American Society for Pediatric Gastroenterology and Nutrition em 1999 e, finalmente, Kokke et al.5 incluíram pacientes de acordo com Loening‐Baucke.4 Essa inclusão inadequada de estudos pode ter levado a diferentes tamanhos de efeito devido à heterogeneidade clínica. Os autores deveriam ter declarado que iriam incluir diferentes Critérios de Roma e, depois, feito uma análise de sensibilidade ou de subgrupo para identificar os tamanhos dos efeitos.
+
+Com relação aos métodos usados para fazer essa revisão sistemática, encontramos alguns pontos fracos em relação às seguintes questões:6
+
+1.
+Protocolos para revisões sistemáticas e metanálises devem ser publicados no banco de dados Prospero antes de todo o processo de publicação do manuscrito final.
+
+2.
+A estratégia de busca deve ser baseada nos pacientes (população), na intervenção e no desenho do estudo, de acordo com diferentes manuscritos. Esse foi baseado nos pacientes, no desfecho e desenho do estudo. Portanto, essa mudança pode levar a um viés de seleção.
+
+3.
+Não é necessário usar duas ferramentas para avaliar o viés (ferramenta de RoB Cochrane e escore de Jadad). Se os autores quiserem fazer outra coisa, como avaliar a qualidade da evidência pela ferramenta Grade, isso pode ser importante e interessante.
+
+4.
+Não há descrição apropriada da estratégia para identificar literatura não publicada. Por exemplo, Google Scholar, banco de dados Open Grey, registros de ensaios clínicos, conferências, entre outros. Isso pode levar a um viés de publicação.
+
+Consequentemente, sugerimos usar cuidadosamente essas informações ao tentar extrapolar os resultados para a prática clínica.
