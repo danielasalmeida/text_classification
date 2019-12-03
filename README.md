@@ -8,3 +8,12 @@ For more informations, [read our article](https://www.overleaf.com/project/5ddeb
 ### folders
 
 
+### required libraries
+- **[nltk](http://www.nltk.org/install.html)**
+```python
+pip install nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('rslp')
+```
+
