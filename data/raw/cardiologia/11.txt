@@ -1,0 +1,45 @@
+ As doenças cardiovasculares (DCV) e suas patologias
+associadas encontram-se entre as maiores causas de morbidade
+e mortalidade, acarretando cerca de 17,3 milhões de mortes por
+ano.1
+ Como um todo, essa classe patológica apresenta etiologia
+multifatorial. Seus possíveis prognósticos levam a problemas
+de saúde pública, estando sua incidência relacionada a fatores
+de risco comportamentais, metabólicos e genéticos.2
+ Apesar
+dos tratamentos preconizados para as DCV e seus possíveis
+prognósticos diminuírem o ritmo de progressão da doença, cresce
+a necessidade de se desenvolver abordagens terapêuticas capazes
+de reverter a patologia e suas complicações.
+Os avanços no campo da biologia molecular e celular vêm
+possibilitando a elucidação de vias moleculares e causas genéticas
+envolvidas no estabelecimento e progressão das DCV, traçando
+um novo ponto de vista sobre a prevenção, tratamento e possíveis
+desfechos dessa classe patológica. Recentes descobertas, tanto
+experimentais quanto obtidas por ferramentas de bioinformática,
+a respeito das bases moleculares das disfunções cardiovasculares,
+vêm apontando alvos terapêuticos consideráveis.3
+ Entretanto,
+a maioria destes alvos não pode ser farmacologicamente
+manipulada, o que os torna candidatos potenciais para a terapia
+gênica, como é o caso dos fatores envolvidos, por exemplo, com
+angiogênese, apoptose e disfunção endotelial.4
+ Dentro desse
+contexto, a manipulação de genes pode auxiliar na supressão
+de fatores genéticos relacionados à incidência das DCV, bem
+como na minimização das complicações clínicas causadas por
+eventos isquêmicos e oclusivos. Assim, o desenvolvimento
+e o aprimoramento de ferramentas de edição de genomas
+possibilitam o surgimento de terapias focadas nos fatores
+de risco genéticos ao dano cardiovascular e nos problemas
+morfofisiológicos fundamentais causados pelas DCV. Nesse
+contexto, o sistema formado por repetições palindrômicas curtas,
+interespaçadas e regularmente agrupadas (do inglês, Clustered
+Regularly Interspaced Short Palindromic Repeats, CRISPR), e sua
+proteína associada-9 (do inglês, CRISPR associated protein-9,
+Cas9), destaca-se devido ao seu fácil uso, alta especificidade,
+fácil manipulação in vitro e in vivo, além da possibilidade da
+edição de múltiplos alvos simultaneamente. Considerando-se
+a complexidade genômica que intervém nas DCV, indicaremos
+aqui algumas possibilidades de aplicação da ferramenta CRISPR/
+Cas9 no âmbito da Cardiologia.
