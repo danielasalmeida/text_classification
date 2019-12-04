@@ -1,6 +1,16 @@
 import os
+import pandas as pd
 
-def format_dataset(path):
+def array_to_pandas(array, column_names):
+    """
+    create dataset in the format 
+    :param path: caminho da pasta raiz contendo as pastas de cada classe com os respectivos resumos
+    :return: array with three columns
+    """
+    return pd.DataFrame(array, columns = column_names)
+         
+    
+def format_dataset(path, pandas_dataframe=True):
     """
     create dataset in the format 
     :param path: caminho da pasta raiz contendo as pastas de cada classe com os respectivos resumos
@@ -19,11 +29,14 @@ def format_dataset(path):
                 row.append(abstract) #file_name
                 row.append(category) #category
                 row.append(text)
-                dataset.append(row)          
-    return dataset
-    
-# class MedicalTextClassifier:
-#     def __init__(self):
+                dataset.append(row)  
+                
+    if pandas_dataframe:
+        column_names = ['file_name', 'category', 'text']
+        dataset = array_to_pandas(dataset, column_names)
         
+    return dataset
+
+
 
     
