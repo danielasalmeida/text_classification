@@ -9,6 +9,7 @@ For more informations, [read our article](https://www.overleaf.com/project/5ddeb
 
 
 ### required libraries
+- anaconda
 - **[nltk](http://www.nltk.org/install.html)**
 ```python
 pip install nltk
