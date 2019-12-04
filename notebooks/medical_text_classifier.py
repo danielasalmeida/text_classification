@@ -58,13 +58,18 @@ def format_dataset(path, pandas_dataframe=True):
 
 
 ## Preprocessing functions
-
-def remove_stopwords(text):
-    commom_words = ['10', '11', '12', '13', '14', '15', '16', '17', '18', '20', '21', '24', '95', 'tambem', 'sido', 
-                    'todas', 'todos', 'assim', 'alguns', 'alem', 'ainda', 'dois', 'duas', 'desses', 'deste', 'nao', 
-                    'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez', 'sao', 'pode', 'podem', '10', 
-                    '11', '14', '15', '16', '19', '20', '21', '95']
+def get_stopwords():
+    commom_words = ['tambem', 'sido', 'todas', 'todos', 'assim', 'alguns', 'alem', 'ainda', 'duas', 'desses', 'deste',
+                    'nao', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez', 'onze', 'doze', 
+                    'treze', 'quartoze', 'quinze', 'dezesseis', 'dezesete', 'dezoito', 'dezenove', 'vinte', 'trinta', 
+                    'quarenta', 'cinquente', 'sessenta', 'setenta', 'oitenta', 'noventa', 'cem', 'sao', 'pode', 'podem',
+                    'resultados', 'pacientes', 'objetivo', 'metodo', 
+                    'conclusoes', 'conclusao', 'dados', 'et', 'al']
+    
     stopword = set(stopwords.words('portuguese') + list(punctuation) + commom_words)
+    return stopword
+def remove_stopwords(text):
+    stopword = get_stopwords()
     text = [word for word in text.split() if word not in stopword]
     return ' '.join(text)
 
@@ -85,6 +90,7 @@ def text_preprocess(category_text_list, category_position=0, text_position=1, to
     ind_tokenizer = 1
     ind_remove_stopwords = 1
     ind_stemmer = 1
+    ind_remove_number = 1
     dataset = []
     
     for row in category_text_list:
@@ -93,15 +99,18 @@ def text_preprocess(category_text_list, category_position=0, text_position=1, to
 
         if ind_lower:
             text = text.lower()
+            
+        if ind_remove_stopwords:
+            text = remove_stopwords(text)
 
         if ind_remove_special_character:
             text = remove_special_character(text)
 
-        if ind_remove_stopwords:
-            text = remove_stopwords(text)
-
         if ind_stemmer:
             text = stemmer(text)
+            
+        if ind_remove_number:
+            text = ''.join(i for i in text if not i.isdigit())
 
         dataset.append([category, text])
         
@@ -110,13 +119,3 @@ def text_preprocess(category_text_list, category_position=0, text_position=1, to
         dataset = array_to_pandas(dataset, column_names)
         
     return dataset
-
-def enumerate_category(path):
-    # Transform Label in number
-    categories = get_categories(path)
-    category_enumerated = {}
-    n = 1
-    for category in categories:
-        category_enumerated[category] = n
-        n += 1
-    return category_enumerated
